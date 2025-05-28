@@ -74,6 +74,7 @@ docker-compose up -d
 ## 🤝 Join Our Community
 
 <div align="center">
+
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Open-ROD/discussions)
 
 </div>
@@ -161,3 +162,4 @@ docker-compose up -d
 *Licensed under [Apache 2.0](https://github.com/Open-ROD/openrod/blob/main/LICENSE) • Made with ❤️ by the OpenROD community*
 
 </div>
+
