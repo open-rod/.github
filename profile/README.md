@@ -37,7 +37,7 @@ Complete control over your data with local deployment options, ensuring your sen
 
 ## 📊 Projects
 
-### 🎯 [OpenROD Core](https://github.com/OpenROD/openrod)
+### 🎯 [OpenROD Core](https://github.com/Open-ROD/openrod)
 Our flagship MCP server built with Java, Spring Boot, and Spring AI. Provides the foundational memory sharing infrastructure.
 
 **Features:**
@@ -47,10 +47,10 @@ Our flagship MCP server built with Java, Spring Boot, and Spring AI. Provides th
 - 🌐 RESTful API and web management interface
 - 🐳 Docker-first deployment strategy
 
-### 🧩 [MCP Client Libraries](https://github.com/OpenROD/mcp-clients)
+### 🧩 [MCP Client Libraries](https://github.com/Open-ROD/mcp-clients)
 Ready-to-use client libraries for seamless integration with popular AI applications.
 
-### 📚 [Documentation Hub](https://github.com/OpenROD/docs)
+### 📚 [Documentation Hub](https://github.com/Open-ROD/docs)
 Comprehensive guides, API documentation, and tutorials for developers and users.
 
 ---
@@ -60,7 +60,7 @@ Comprehensive guides, API documentation, and tutorials for developers and users.
 Get OpenROD running in under 5 minutes:
 
 ```bash
-git clone https://github.com/OpenROD/openrod.git
+git clone https://github.com/Open-ROD/openrod.git
 cd openrod
 docker-compose up -d
 ```
@@ -74,10 +74,7 @@ docker-compose up -d
 ## 🤝 Join Our Community
 
 <div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-Join_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/openrod)
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/OpenROD/discussions)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OpenROD_AI)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Open-ROD/discussions)
 
 </div>
 
@@ -92,10 +89,9 @@ docker-compose up -d
 
 ### 🎓 For New Contributors
 
-1. 📖 Read our [Contributing Guide](https://github.com/OpenROD/openrod/blob/main/CONTRIBUTING.md)
-2. 🔍 Browse [Good First Issues](https://github.com/OpenROD/openrod/labels/good%20first%20issue)
-3. 💬 Join our [Discord](https://discord.gg/openrod) for real-time support
-4. 🚀 Make your first pull request!
+1. 📖 Read our [Contributing Guide](https://github.com/Open-ROD/openrod/blob/main/CONTRIBUTING.md)
+2. 🔍 Browse [Good First Issues](https://github.com/Open-ROD/openrod/labels/good%20first%20issue)
+3. 🚀 Make your first pull request!
 
 ---
 
@@ -103,10 +99,10 @@ docker-compose up -d
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/OpenROD/openrod?style=social)
-![GitHub forks](https://img.shields.io/github/forks/OpenROD/openrod?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/OpenROD/openrod?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/OpenROD/openrod?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Open-ROD/openrod?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Open-ROD/openrod?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/Open-ROD/openrod?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Open-ROD/openrod?style=flat-square)
 
 </div>
 
@@ -148,7 +144,7 @@ docker-compose up -d
 **🌐 Website:** [openrod.org](https://openrod.org)  
 **📧 Email:** hello@openrod.org  
 **📚 Documentation:** [docs.openrod.org](https://docs.openrod.org)  
-**🐙 GitHub:** [@OpenROD](https://github.com/OpenROD)
+**🐙 GitHub:** [@Open-ROD](https://github.com/Open-ROD)
 
 </div>
 
@@ -160,8 +156,8 @@ docker-compose up -d
 
 **Together, we're making AI memory sharing accessible to everyone.**
 
-[![Open in GitHub Codespaces](https://img.shields.io/badge/Open_in-GitHub_Codespaces-2ea44f?style=for-the-badge&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=OpenROD/openrod)
+[![Open in GitHub Codespaces](https://img.shields.io/badge/Open_in-GitHub_Codespaces-2ea44f?style=for-the-badge&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=Open-ROD/openrod)
 
-*Licensed under [Apache 2.0](https://github.com/OpenROD/openrod/blob/main/LICENSE) • Made with ❤️ by the OpenROD community*
+*Licensed under [Apache 2.0](https://github.com/Open-ROD/openrod/blob/main/LICENSE) • Made with ❤️ by the OpenROD community*
 
 </div>
