@@ -1,0 +1,104 @@
+name: Feature Request
+description: Suggest an idea or enhancement for this project
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a new feature! Please provide as much detail as possible to help us understand your needs.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Pre-submission checklist
+      description: By submitting this issue, you agree to follow our Code of Conduct and confirm you've done the following
+      options:
+        - label: I have searched for existing issues and feature requests
+          required: true
+        - label: I have read the contributing guidelines
+          required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: Is your feature request related to a problem? Please describe the use case or problem you're trying to solve.
+      placeholder: A clear and concise description of what the problem is or what use case you're trying to address. Ex. I'm always frustrated when [...]
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: Describe the solution you'd like to see
+      placeholder: A clear and concise description of what you want to happen. Include any specific implementation details if you have them.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Describe any alternative solutions or features you've considered
+      placeholder: A clear and concise description of any alternative solutions or workarounds you've considered.
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance criteria
+      description: What would need to be true for this feature to be considered complete?
+      placeholder: |
+        - [ ] Feature should do X
+        - [ ] Feature should handle Y edge case
+        - [ ] Feature should be documented
+        - [ ] Feature should include tests
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this feature to you?
+      options:
+        - Low - Nice to have
+        - Medium - Would improve workflow
+        - High - Important for productivity
+        - Critical - Blocking important use cases
+    validations:
+      required: true
+
+  - type: dropdown
+    id: complexity
+    attributes:
+      label: Estimated complexity
+      description: How complex do you think this feature would be to implement? (This helps with planning)
+      options:
+        - Small - Minor change or addition
+        - Medium - Moderate effort required
+        - Large - Significant development effort
+        - Extra Large - Major feature requiring substantial work
+        - Unknown - Not sure about complexity
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples or mockups
+      description: If applicable, add examples, mockups, or screenshots to help explain your feature request. You can drag and drop images here.
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context, links to similar features in other tools, or relevant information about the feature request here.
+
+  - type: checkboxes
+    id: implementation
+    attributes:
+      label: Implementation
+      description: Are you interested in helping implement this feature?
+      options:
+        - label: I'm willing to submit a pull request for this feature
+        - label: I'm available to help with testing
+        - label: I can provide additional requirements or feedback during development
